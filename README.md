@@ -1,7 +1,6 @@
 ## Themen
  - [ ] Package Managers
  - [ ] Cross Compiling
- - [ ] 
  
 ## Wiederkehrendes
  - [ ] GitHub Star der Woche

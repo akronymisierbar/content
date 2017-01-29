@@ -7,6 +7,8 @@
  - [ ] PR der Woche
  - [ ] Podcastperlen/-empfehlungen
  - [ ] Bier/Mate der Woche
+ - [ ] Halbwissen der Woche
+ - [ ] Current Events
 
 ## Titel
  - [ ] Trollfütterungszeit

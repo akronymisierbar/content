@@ -1,19 +1,5 @@
-## Themen
- - [ ] Package Managers
- - [ ] Cross Compiling
- 
-## Wiederkehrendes
- - [ ] GitHub Star der Woche
- - [ ] PR der Woche
- - [ ] Podcastperlen/-empfehlungen
- - [ ] Bier/Mate der Woche
- - [ ] Halbwissen der Woche
- - [ ] Current Events
+#✌️
 
-## Titel
- - [ ] Trollfütterungszeit
- 
-## Gäste
- - [ ] Flo
- - [ ] Gilbert
- - [ ] Frank
+Contentvorschläge und anderes, was den Inhalt angeht, einfach direkt in die [Issues](https://github.com/akronymisierbar/content/issues) schmeißen 😊
+
+Vorschläge und Kommentare von Dritten sind selbstverständlich herzlichst willkommen!
